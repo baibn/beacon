@@ -1,0 +1,15 @@
+{
+    "MysqlSshC":{
+        "Host":"fort.ishumei.com",
+        "Port":22,
+        "User":"mysql",
+        "Pkey":"id_rsa_mysql"
+    },
+    "MysqlC":{
+        "Host":"10.141.5.248",
+        "Port":3312,
+        "User":"root",
+        "Password":"shumeitest2018",
+        "DbName":"sentry"
+    }
+}
